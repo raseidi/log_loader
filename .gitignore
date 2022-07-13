@@ -1,0 +1,5 @@
+# data/
+notes.txt
+__pycache__/
+*.py[cod]
+playground.py
